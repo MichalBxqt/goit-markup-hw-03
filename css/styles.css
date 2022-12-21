@@ -26,7 +26,7 @@ body {
   padding: 19px 0px;
   display: flex;
   align-items: center;
-  border: 1px solid #000000
+  border-bottom: 1px solid #ECECEC
 }
 .container {
   width: 1200px;
